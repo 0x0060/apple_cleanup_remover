@@ -1,4 +1,4 @@
-# Image Metadata Removal Module
+# Apple CleanUP Watermark remover
 
 ## Overview
 
