@@ -1,0 +1,1 @@
+"""Image Metadata Removal Module."""
